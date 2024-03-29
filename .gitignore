@@ -1,0 +1,6 @@
+*.json
+*.jsonl
+
+*/.DS_Store
+.DS_Store
+.vscode/*
